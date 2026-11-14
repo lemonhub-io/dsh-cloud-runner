@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#101318</color>
+    <color name="text_primary">#F7F8FA</color>
+    <color name="text_secondary">#9AA3AF</color>
+    <color name="button_number">#20242C</color>
+    <color name="button_number_pressed">#2C313B</color>
+    <color name="button_utility">#2A2F38</color>
+    <color name="button_utility_pressed">#363C47</color>
+    <color name="button_operator">#253142</color>
+    <color name="button_operator_pressed">#32445C</color>
+    <color name="operator_text">#8CB8FF</color>
+    <color name="accent">#FFB35C</color>
+    <color name="accent_pressed">#FFC77E</color>
+    <color name="accent_text">#241706</color>
+</resources>
