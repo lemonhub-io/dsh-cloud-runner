@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">余白</string>
+    <string name="app_tagline">留一点空白，安放思绪</string>
+    <string name="backup_rules">backup_rules</string>
+</resources>
